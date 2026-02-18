@@ -5,7 +5,7 @@ A beautiful and simple Flutter application designed to play Islamic content (Qur
 ## 📸 Screenshots
 | Splash Screen | Playlist | Player |
 |:---:|:---:|:---:|
-| ![Splash](assets/images/Icon_App.jpg) |
+
 
 <tr>
     <td style="border: none;"><img src="https://github.com/user-attachments/assets/e3a181f1-c6ae-4772-95b0-b596c7b0fbc6" width="300" /></td>
@@ -43,3 +43,4 @@ lib/
 ├── lists_screen.dart    # Screen displaying the list of audios
 ├── playerscreen.dart    # The main player UI and logic
 └── playlistscreen.dart  # Playlist management screen
+
